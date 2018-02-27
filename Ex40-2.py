@@ -12,6 +12,5 @@ happy_bday = Song([ "Happy birthday to you",
 bulls_on_parade = Song( ["They rally aroud the family",
                         "With pocket full of shells"])
 
-
 happy_bday.sing_me_a_song()
 bulls_on_parade.sing_me_a_song()
